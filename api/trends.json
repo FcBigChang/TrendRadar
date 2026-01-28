@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T12:43:54.191294+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-01-28T13:27:40.388047+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时27分]"
         },
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时27分]"
         },
         {
           "title": "特朗普，两天内动手？",
@@ -50,30 +50,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时27分]"
         },
         {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
           "url": "https://wallstreetcn.com/articles/3764299",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 12时43分]"
-        },
-        {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 13时27分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -87,28 +77,6 @@
           "time_info": "07时21分"
         },
         {
-          "title": "特朗普放狠话：若民主党赢得中期选举，后果会很糟糕",
-          "url": "https://wallstreetcn.com/livenews/3045261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "特朗普放狠话：若民主党赢得中期选举 后果会很糟糕",
-          "url": "https://flash.jin10.com/detail/20260128123413943800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
           "title": "美国总统特朗普：希望让现在拥有房屋的人保持较高的财富。强化房利美和房地美的地位。",
           "url": "https://wallstreetcn.com/livenews/3045037",
           "source": "华尔街见闻-快讯",
@@ -118,6 +86,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
+          "url": "https://www.cls.cn/detail/2271977",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 13时27分]"
         },
         {
           "title": "美国总统特朗普：听说伊拉克可能会做出非常糟糕的选择，重新任命努里·马利基为总理。如果他当选，美利坚合众国将不再援助伊拉克。",
@@ -137,7 +117,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -201,6 +181,18 @@
           "time_info": "[11时45分 ~ 12时43分]"
         },
         {
+          "title": "特朗普放狠话：若民主党赢得中期选举，后果会很糟糕",
+          "url": "https://wallstreetcn.com/livenews/3045261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时27分]"
+        },
+        {
           "title": "美国总统特朗普所谓“和平委员会”料将让（开发商出身的）特朗普掌握对加沙的广泛权力。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3044930",
           "source": "华尔街见闻-快讯",
@@ -226,6 +218,18 @@
           "time_info": "[01时28分 ~ 02时38分]"
         },
         {
+          "title": "特朗普放狠话：若民主党赢得中期选举 后果会很糟糕",
+          "url": "https://flash.jin10.com/detail/20260128123413943800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时27分]"
+        },
+        {
           "title": "特朗普就美国明尼苏达州枪击案致死事件发表评论：“你不能带着枪走进去”",
           "url": "https://wallstreetcn.com/livenews/3044928",
           "source": "华尔街见闻-快讯",
@@ -249,6 +253,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 04时22分]"
+        },
+        {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
@@ -729,8 +744,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时27分]"
         },
         {
           "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
@@ -739,11 +754,12 @@
           "ranks": [
             13,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时27分]"
         },
         {
           "title": "沙特王储：不允许用沙特领土攻击伊朗",
@@ -753,8 +769,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 13时27分]"
         },
         {
           "title": "伊朗将领：邻国领土不得用于攻击伊朗",
@@ -763,11 +779,12 @@
           "ranks": [
             7,
             14,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时27分]"
         },
         {
           "title": "伊朗称已对霍尔木兹海峡进行实时监控",
@@ -1034,8 +1051,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时27分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -1195,11 +1212,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 13时27分]"
         },
         {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
@@ -1217,11 +1235,12 @@
           "url": "https://wallstreetcn.com/livenews/3045248",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时27分]"
         },
         {
           "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
@@ -1312,11 +1331,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 13时27分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -1413,8 +1433,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时37分 ~ 12时43分]"
+          "appearance_count": 14,
+          "time_info": "[02时37分 ~ 13时27分]"
         },
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -1426,8 +1446,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 12时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 13时27分]"
         },
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -1437,8 +1457,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时27分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1446,22 +1466,24 @@
           "source": "微博",
           "ranks": [
             8,
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 13时27分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
           "url": "https://www.toutiao.com/trending/7600200790535310911/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时27分]"
         },
         {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
@@ -1511,8 +1533,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时27分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -1589,8 +1611,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 12时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 13时27分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
