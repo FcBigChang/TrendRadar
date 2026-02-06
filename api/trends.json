@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T16:40:31.219373+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2026-02-06T17:42:09.640936+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 16时40分]"
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 17时42分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -27,11 +27,12 @@
             10,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[12时18分 ~ 17时42分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -57,6 +58,17 @@
           "time_info": "[12时18分 ~ 15时46分]"
         },
         {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 17时42分]"
+        },
+        {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
           "url": "https://news.ifeng.com/c/8qW6McngHpX",
           "source": "凤凰网",
@@ -66,17 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时57分 ~ 09时58分]"
-        },
-        {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
         },
         {
           "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
@@ -131,7 +132,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -349,6 +350,17 @@
           "time_info": "12时18分"
         },
         {
+          "title": "特朗普转发李小龙武打视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%AC%E5%8F%91%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%AD%A6%E6%89%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "贝森特：是否起诉沃什由特朗普决定，称“起诉”言论只是玩笑",
           "url": "https://wallstreetcn.com/livenews/3050778",
           "source": "华尔街见闻-快讯",
@@ -391,6 +403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "据伊朗国家电视台报道：特朗普高级顾问库什纳也将出席伊美会谈。",
+          "url": "https://flash.jin10.com/detail/20260206164225309800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "特朗普：与其延长 不如制定美俄核军控新条约",
@@ -448,6 +471,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%94%AF%E6%8C%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "特朗普：已就迪戈加西亚岛问题与斯塔默交谈 保留军事手段的权利",
           "url": "https://flash.jin10.com/detail/20260206020251009800",
           "source": "金十数据",
@@ -500,6 +534,33 @@
           "time_info": "[00时45分 ~ 07时23分]"
         },
         {
+          "title": "中方阐明在伊朗问题上的原则立场",
+          "url": "https://news.ifeng.com/c/8qWWGUvFTRt",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时54分 ~ 17时42分]"
+        },
+        {
+          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
+          "url": "https://www.cls.cn/detail/2282466",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时18分 ~ 17时42分]"
+        },
+        {
           "title": "美国伊朗谈判今日举行",
           "url": "https://www.douyin.com/hot/2391128",
           "source": "抖音",
@@ -512,32 +573,6 @@
           "time_info": "[12时18分 ~ 15时46分]"
         },
         {
-          "title": "中方阐明在伊朗问题上的原则立场",
-          "url": "https://news.ifeng.com/c/8qWWGUvFTRt",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 16时40分]"
-        },
-        {
-          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
-          "url": "https://www.cls.cn/detail/2282466",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 16时40分]"
-        },
-        {
           "title": "贝森特：看到伊朗啥样了吧，我们干的",
           "url": "https://news.ifeng.com/c/8qWIKuTzdj9",
           "source": "凤凰网",
@@ -545,8 +580,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时46分 ~ 16时40分]"
+          "appearance_count": 4,
+          "time_info": "[15时46分 ~ 17时42分]"
         },
         {
           "title": "伊朗最高领袖政治顾问沙姆哈尼获任国防委员会秘书",
@@ -632,7 +667,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -646,17 +681,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
-        },
-        {
-          "title": "伊朗外交部：抵制美国“任何过分的要求或冒险行为”",
-          "url": "https://wallstreetcn.com/livenews/3051265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
         },
         {
           "title": "美国财长贝森特：伊朗领导层疯狂地往外转移资金。",
@@ -738,6 +762,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时26分]"
+        },
+        {
+          "title": "伊朗外交部：抵制美国“任何过分的要求或冒险行为”",
+          "url": "https://wallstreetcn.com/livenews/3051265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时42分]"
         },
         {
           "title": "伊朗外长率团赴阿曼，将与美国进行核问题谈判",
@@ -891,7 +927,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -997,6 +1033,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时18分 ~ 14时54分]"
+        },
+        {
+          "title": "亚马逊美股盘前跌近10%，今年支出指引2000亿意外爆表。Reddit盘前涨超7%，公司批准一项最高达10亿美元的股票回购计划。Stellantis跌超10%，因业务重组导致2025年下半年计提约222亿欧元费用。",
+          "url": "https://wallstreetcn.com/livenews/3051294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
@@ -1171,19 +1218,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 16时40分]"
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 17时42分]"
         },
         {
           "title": "印度央行否认减持美债 称持仓变动属正常波动",
           "url": "https://flash.jin10.com/detail/20260206163550587800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时42分]"
         },
         {
           "title": "期限溢价攀升引发美债市场警惕 政策前景放缓或压制长端利率",
@@ -1262,6 +1310,18 @@
           "time_info": "[00时45分 ~ 07时23分]"
         },
         {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 17时42分]"
+        },
+        {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764994",
           "source": "华尔街见闻",
@@ -1271,17 +1331,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时45分 ~ 06时26分]"
-        },
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 16时40分]"
         }
       ]
     },
