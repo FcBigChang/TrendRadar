@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-14T18:26:06.117934+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2026-02-14T19:22:14.474780+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
+        {
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 19时22分]"
+        },
         {
           "title": "特朗普将访问委内瑞拉",
           "url": "https://news.ifeng.com/c/8qitxi0GRdt",
@@ -46,17 +60,15 @@
           "time_info": "[04时37分 ~ 13时43分]"
         },
         {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 18时26分]"
+          "appearance_count": 8,
+          "time_info": "[15时33分 ~ 19时22分]"
         },
         {
           "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
@@ -104,17 +116,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时44分 ~ 15时34分]"
-        },
-        {
-          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
-          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时33分 ~ 18时26分]"
         },
         {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
@@ -198,6 +199,17 @@
           "time_info": "09时56分"
         },
         {
+          "title": "特朗普：北约看在我的份上付了5%国防支出",
+          "url": "https://news.ifeng.com/c/8qk233NwWlu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
+        },
+        {
           "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
           "url": "https://www.cls.cn/detail/2290112",
           "source": "财联社热门",
@@ -234,6 +246,30 @@
           "time_info": "[03时42分 ~ 05时34分]"
         },
         {
+          "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
+          "url": "https://flash.jin10.com/detail/20260214165909253800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 19时22分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
+          "url": "https://flash.jin10.com/detail/20260214165831489800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 19时22分]"
+        },
+        {
           "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
           "url": "https://wallstreetcn.com/livenews/3055319",
           "source": "华尔街见闻-快讯",
@@ -246,6 +282,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时40分 ~ 04时37分]"
+        },
+        {
+          "title": "加州州长慕安会痛批特朗普：让美国倒退回19世纪！",
+          "url": "https://wallstreetcn.com/livenews/3055491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时22分]"
         },
         {
           "title": "美国总统特朗普：美国是北约的重要成员。",
@@ -344,18 +394,6 @@
           "time_info": "[05时34分 ~ 07时31分]"
         },
         {
-          "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
-          "url": "https://flash.jin10.com/detail/20260214165909253800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 18时26分]"
-        },
-        {
           "title": "美国最高法院将于2月20日就特朗普关税案公布意见",
           "url": "https://flash.jin10.com/detail/20260213235807160800",
           "source": "金十数据",
@@ -389,31 +427,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时40分 ~ 03时42分]"
-        },
-        {
-          "title": "加州州长慕安会痛批特朗普：让美国倒退回19世纪！",
-          "url": "https://wallstreetcn.com/livenews/3055491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时26分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
-          "url": "https://flash.jin10.com/detail/20260214165831489800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 18时26分]"
         },
         {
           "title": "特朗普证实美军将向中东地区派出第二艘航母",
@@ -886,6 +899,19 @@
           "time_info": "[00时44分 ~ 06时32分]"
         },
         {
+          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
+          "url": "https://www.cls.cn/detail/2290296",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 19时22分]"
+        },
+        {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
           "url": "https://www.zhihu.com/question/2005568531748648323",
           "source": "知乎",
@@ -895,18 +921,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时44分 ~ 06时32分]"
-        },
-        {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 18时26分]"
         },
         {
           "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
@@ -1047,11 +1061,12 @@
             13,
             9,
             8,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 18时26分]"
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 19时22分]"
         },
         {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
@@ -1119,11 +1134,12 @@
           "ranks": [
             5,
             14,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时22分]"
         },
         {
           "title": "13F报告显示：索罗斯四季度建仓做多Dayforce、New Gold等。 增持微软、台积电、艺电、亚马逊。 减持Snowflake、Invesco标普500 平权ETF。 清仓Aramark、KKR、iShares 7-10年期美国国债ETF等。 重仓亚马逊、谷歌A、Salesforce、TKO、微软。",
@@ -1207,9 +1223,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时22分]"
         },
         {
           "title": "加拿大政府网站：加拿大宣布对伊朗实施更多制裁。",
@@ -1218,9 +1234,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时22分]"
         },
         {
           "title": "美方代表团将于17日与伊朗方面会晤",
@@ -1298,8 +1314,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 18时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时55分 ~ 19时22分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？最新披露",
@@ -1311,8 +1327,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时43分 ~ 18时26分]"
+          "appearance_count": 9,
+          "time_info": "[14时43分 ~ 19时22分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -1323,8 +1339,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时43分 ~ 18时26分]"
+          "appearance_count": 8,
+          "time_info": "[14时43分 ~ 19时22分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -1334,11 +1350,12 @@
             23,
             17,
             15,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时43分 ~ 18时26分]"
+          "appearance_count": 9,
+          "time_info": "[14时43分 ~ 19时22分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -1389,8 +1406,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 18时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时55分 ~ 19时22分]"
+        },
+        {
+          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
+          "url": "https://wallstreetcn.com/articles/3765719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 19时22分]"
         },
         {
           "title": "中国持续减持美债意味着什么",
@@ -1404,18 +1433,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时10分 ~ 15时34分]"
-        },
-        {
-          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
-          "url": "https://wallstreetcn.com/articles/3765719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 18时26分]"
         },
         {
           "title": "美国通胀温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债走强，黄金重回5000关口",
@@ -1460,17 +1477,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "市场消息：OpenAI的语音控制技术被选中用于美国无人机集群竞赛。",
-          "url": "https://flash.jin10.com/detail/20260214020718488800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
           "title": "OpenAI：已停止使用五款旧版ChatGPT模型",
           "url": "https://flash.jin10.com/detail/20260214160547731800",
           "source": "金十数据",
@@ -1480,8 +1486,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时22分]"
+        },
+        {
+          "title": "市场消息：OpenAI的语音控制技术被选中用于美国无人机集群竞赛。",
+          "url": "https://flash.jin10.com/detail/20260214020718488800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
