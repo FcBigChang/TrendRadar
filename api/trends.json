@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-04-17T10:28:40.878233+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-04-17T13:27:24.423522+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
-        {
-          "title": "伊朗：将就官员被暗杀追究美以责任",
-          "url": "https://news.ifeng.com/c/8sNEWX5GhXC",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 10时28分]"
-        },
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
           "url": "https://wallstreetcn.com/articles/3770156",
@@ -27,6 +15,18 @@
             4,
             3,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 13时27分]"
+        },
+        {
+          "title": "伊朗：将就官员被暗杀追究美以责任",
+          "url": "https://news.ifeng.com/c/8sNEWX5GhXC",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -44,17 +44,6 @@
           "time_info": "[01时13分 ~ 10时28分]"
         },
         {
-          "title": "伊朗披露击落美C-130细节",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E5%87%BB%E8%90%BD%E7%BE%8EC-130%E7%BB%86%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 07时39分]"
-        },
-        {
           "title": "美方对伊朗启动代号为“经济狂怒”的行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_32986818",
           "source": "澎湃新闻",
@@ -63,11 +52,12 @@
             17,
             6,
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 10时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 13时27分]"
         },
         {
           "title": "美方对伊朗启动代号为「经济狂怒」的行动，其具体措施与以往制裁会有何差异？可能对双方谈判有怎样的影响？",
@@ -79,8 +69,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 10时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 13时27分]"
+        },
+        {
+          "title": "伊朗披露击落美C-130细节",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E5%87%BB%E8%90%BD%E7%BE%8EC-130%E7%BB%86%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 07时39分]"
         },
         {
           "title": "伊朗战争丨伊朗总统：民众对美国不再抱有任何信任",
@@ -105,6 +106,22 @@
           "time_info": "[01时13分 ~ 03时11分]"
         },
         {
+          "title": "伊朗总统感谢中国",
+          "url": "https://www.toutiao.com/trending/7628829127155826738/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            16,
+            28,
+            17,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 13时27分]"
+        },
+        {
           "title": "伊朗议长：黎巴嫩是地区全面停火不可或缺一环",
           "url": "https://wallstreetcn.com/livenews/3089592",
           "source": "华尔街见闻-快讯",
@@ -127,6 +144,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时51分 ~ 06时39分]"
+        },
+        {
+          "title": "伊朗感谢中方援助近60吨药品",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%84%9F%E8%B0%A2%E4%B8%AD%E6%96%B9%E6%8F%B4%E5%8A%A9%E8%BF%9160%E5%90%A8%E8%8D%AF%E5%93%81",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时27分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2028238414336585868",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时27分]"
         },
         {
           "title": "伊朗总统：美国多次违约 伊朗人民已对其完全失去信任",
@@ -168,28 +207,13 @@
           "time_info": "[01时13分 ~ 07时39分]"
         },
         {
-          "title": "伊朗总统感谢中国",
-          "url": "https://www.toutiao.com/trending/7628829127155826738/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            16,
-            28,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 07时39分]"
-        },
-        {
           "title": "伊朗外交部发言人：伊核问题相关安排仍存在多种选项",
           "url": "https://wallstreetcn.com/livenews/3089714",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -216,15 +240,15 @@
           "time_info": "03时11分"
         },
         {
-          "title": "伊朗感谢中方援助近60吨药品",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%84%9F%E8%B0%A2%E4%B8%AD%E6%96%B9%E6%8F%B4%E5%8A%A9%E8%BF%9160%E5%90%A8%E8%8D%AF%E5%93%81",
-          "source": "百度热搜",
+          "title": "伊朗战争丨伊朗革命卫队：“前所未有警告”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "13时27分"
         },
         {
           "title": "伊朗议会议长：美国屡屡违约阻碍地区和平进程",
@@ -236,17 +260,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2028238414336585868",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         },
         {
           "title": "德国财政部长：我认为伊朗战争的影响将持续一段时间。",
@@ -269,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "中国向伊朗提供58吨物资援助",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B58%E5%90%A8%E7%89%A9%E8%B5%84%E6%8F%B4%E5%8A%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "伊朗议会议长：伊朗将以谨慎态度对待黎以停火",
@@ -304,17 +328,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
-        },
-        {
-          "title": "中国向伊朗提供58吨物资援助",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B58%E5%90%A8%E7%89%A9%E8%B5%84%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         },
         {
           "title": "伊朗审慎应对再与美谈判或延长停火",
@@ -382,6 +395,30 @@
           "time_info": "[03时11分 ~ 06时39分]"
         },
         {
+          "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32985465",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时27分]"
+        },
+        {
+          "title": "中国向伊朗提供58吨物资援助",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B58%E5%90%A8%E7%89%A9%E8%B5%84%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时27分]"
+        },
+        {
           "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
           "url": "https://www.zhihu.com/question/2027115873823973436",
           "source": "知乎",
@@ -393,6 +430,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 06时39分]"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时27分]"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://www.cls.cn/detail/2346894",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时27分]"
         },
         {
           "title": "据伊朗媒体：伊朗外交部发言人表示，伊朗强调以色列需全面撤出黎巴嫩南部地区。",
@@ -419,6 +480,18 @@
           "time_info": "[04时57分 ~ 05时51分]"
         },
         {
+          "title": "伊总统：伊朗人民对美国完全失去信任",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%8E%BB%E4%BF%A1%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时27分]"
+        },
+        {
           "title": "伊朗代表：霍尔木兹海峡的稳定需以尊重伊朗权利为前提",
           "url": "https://flash.jin10.com/detail/20260417025741156800",
           "source": "金十数据",
@@ -428,17 +501,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        },
-        {
-          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
-          "url": "https://www.cls.cn/detail/2346894",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         },
         {
           "title": "英国央行货币政策委员会（MPC）成员Taylor：预测已经表明，劳动力市场持续放松。 劳动力市场对伊朗战争的反应是英国央行（货币政策决定）的关键。 英国央行3月表决结果并没有方向性的边缘，而是一个暂停。",
@@ -474,35 +536,13 @@
           "time_info": "01时13分"
         },
         {
-          "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32985465",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
           "title": "伊朗总统会见巴陆军参谋长 呼吁伊斯兰国家团结一致",
           "url": "https://wallstreetcn.com/livenews/3089695",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "伊总统：伊朗人民对美国完全失去信任",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%8E%BB%E4%BF%A1%E4%BB%BB",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -529,17 +569,6 @@
           "time_info": "06时39分"
         },
         {
-          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
           "title": "伊朗议会议长：美国屡屡违约阻碍地区和平进程",
           "url": "https://flash.jin10.com/detail/20260417023914531800",
           "source": "金十数据",
@@ -562,6 +591,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "德国将把今年的经济增长预期从1%下调至0.5%，受伊朗战争影响。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3089775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "伊朗武装部队司令：敌人对战局存在“误判”",
           "url": "https://wallstreetcn.com/livenews/3089483",
           "source": "华尔街见闻-快讯",
@@ -579,7 +619,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -617,6 +657,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "受伊朗战事影响 美国将推迟向部分欧洲国家交付武器",
+          "url": "https://wallstreetcn.com/livenews/3089769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "法国财长：G7财长已准备采取行动，缓解伊朗战争的影响",
           "url": "https://wallstreetcn.com/livenews/3089551",
           "source": "华尔街见闻-快讯",
@@ -642,19 +693,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
-        {
-          "title": "特朗普：美伊下次会晤或在本周末举行",
-          "url": "https://news.ifeng.com/c/8sN3kmBakib",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时11分 ~ 10时28分]"
-        },
         {
           "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
           "url": "https://wallstreetcn.com/articles/3770137",
@@ -666,8 +706,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普：美伊下次会晤或在本周末举行",
+          "url": "https://news.ifeng.com/c/8sN3kmBakib",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时13分 ~ 10时28分]"
+          "time_info": "[03时11分 ~ 13时27分]"
         },
         {
           "title": "特朗普就访华明确表态，中方回应",
@@ -727,6 +779,18 @@
           "time_info": "[05时51分 ~ 06时39分]"
         },
         {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时27分]"
+        },
+        {
           "title": "特朗普称以黎停火10天",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BB%A5%E9%BB%8E%E5%81%9C%E7%81%AB10%E5%A4%A9%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -740,6 +804,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时13分 ~ 06时39分]"
+        },
+        {
+          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
+          "url": "https://www.cls.cn/detail/2346891",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时27分]"
         },
         {
           "title": "以色列北部地区委员会负责人：特朗普将伊朗问题引入黎巴嫩局势是不合理的。",
@@ -786,35 +861,13 @@
           "time_info": "07时39分"
         },
         {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
-          "url": "https://www.cls.cn/detail/2346891",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
           "title": "特朗普抨击纽约市长：他的税收政策正在把人赶走",
           "url": "https://flash.jin10.com/detail/20260417101657046800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -828,6 +881,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
@@ -851,6 +915,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时51分 ~ 06时39分]"
+        },
+        {
+          "title": "打脸特朗普！海湾和欧洲官员：美伊协议至少需六个月，不是“很快”",
+          "url": "https://flash.jin10.com/detail/20260417125738435800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "美国参议院以微弱优势推翻明尼苏达州采矿禁令，法案已递交特朗普",
@@ -916,9 +991,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "特朗普称伊朗战事应该很快就会结束，伊朗同意不拥有核武器，伊方暂无回应，可信度有多高？",
+          "url": "https://www.zhihu.com/question/2028396835065148224",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "美国总统特朗普在社交媒体上批评法官“出于政治动机”试图阻止白宫大型宴会厅项目建设，称其行为削弱国家安全。",
@@ -949,7 +1035,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -1004,7 +1090,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -1059,7 +1145,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -1179,8 +1265,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 10时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 13时27分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -1217,8 +1303,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时39分 ~ 10时28分]"
+          "appearance_count": 4,
+          "time_info": "[06时39分 ~ 13时27分]"
         },
         {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
@@ -1227,9 +1313,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时27分]"
+        },
+        {
+          "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
+          "url": "https://wallstreetcn.com/articles/3770147",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时27分]"
         },
         {
           "title": "美股收盘：百度涨超3%",
@@ -1254,17 +1351,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 06时39分]"
-        },
-        {
-          "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
-          "url": "https://wallstreetcn.com/articles/3770147",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         },
         {
           "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
@@ -1356,6 +1442,17 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
+          "url": "https://www.cls.cn/detail/2346818",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时27分]"
+        },
+        {
           "title": "OpenAI发布用于药物研发的新款AI模型。",
           "url": "https://wallstreetcn.com/livenews/3089544",
           "source": "华尔街见闻-快讯",
@@ -1365,17 +1462,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        },
-        {
-          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
-          "url": "https://www.cls.cn/detail/2346818",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         },
         {
           "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
@@ -1417,7 +1503,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         }
@@ -1445,7 +1531,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -1550,6 +1636,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价高位整理，追价情绪转向克制",
+          "url": "https://flash.jin10.com/detail/20260417123824039800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         }
       ]
     }
